@@ -5,3 +5,7 @@ obj/
 .vs/
 node_modules/
 vote/Dockerfile.backup
+
+# Terraform temporary files
+terraform/.terraform/
+terraform/terraform.tfstate*
